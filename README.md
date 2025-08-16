@@ -1,10 +1,8 @@
 # CST8919 – DevOps Security & Compliance  
 ## Assignment 2 – Cloud Service Alternatives Report
 
-**Name:** _<Your Name Here>_  
+**Name:** Akshay Malik 
 **Course:** CST8919 – DevOps Security & Compliance  
-**Due:** August 15, 2025  
-
 ---
 
 ## Introduction
